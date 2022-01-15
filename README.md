@@ -1,2 +1,3 @@
-# C-code
-Mükemmel Sayılar-Faktöriyel-Asal Sayılar-Armstrong sayı
+# C-kodları
+MÜKEMMEL SAYILAR - ARMSTRONG SAYILAR  - FAKTÖRİYEL  HESAPLAMA   - ASAL SAYILAR 
+SAYILARI KONTROL EDEN  C KODLARI
